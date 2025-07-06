@@ -8,7 +8,7 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
     menu_items={
-        'Report a bug': "https://github.com/Ankurkatri/Chatinsight/issues",
+        'Report a bug': "https://github.com/AranyaDhull/ChatInsight/",
         'About': "# This is Chat Insight"
     }
 )
@@ -50,7 +50,7 @@ with st.expander("About this app"):
      https://github.com/joweich/chat-miner) for easy whatsapp parsing tool and 
      their awesome charts. Thanks to [Dinesh Vatvani](https://dvatvani.github.io/whatsapp-analysis.html) 
      for his great analysis.
-     - source: [ankur](https://github.com/Ankurkatri/Chatinsight/)
+     - source: [ankur](https://github.com/AranyaDhull/ChatInsight/)
     """
     )
 
